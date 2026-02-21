@@ -15,9 +15,6 @@ The Word Guess Game is a console-based application that allows users to guess a 
 - User-friendly interface
 - Feedback on guesses
 
-## Requirements
-- Python 3.x or higher
-
 ## Installation
 1. Clone the repository:
    ```bash
