@@ -23,10 +23,7 @@ The Word Guess Game is a console-based application that allows users to guess a 
    ```bash
    git clone https://github.com/hakimov-vs/Word-guess-game.git
    ```
-2. Run the game by executing:
+2. Run the game by compiling:
    ```bash
-   python3 word_guess_game.py
+   main.exe
    ```
-
-## License
-This project is open-sourced and available under the MIT License.
